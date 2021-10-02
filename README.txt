@@ -1,6 +1,4 @@
-Teste técnico para vaga de estágio FULL STACK. 
-
-O teste consiste em realizar um sistema básico de CRUD. Para este sistema utilizei o banco de dados MYSQL, a linguagem 
+Para este sistema utilizei o banco de dados MYSQL, a linguagem 
 de programação PHP e tecnologias como HTML e juntamente com o CSS o framework BOOTSTRAP. 
 
 Para rodar todo o sistema é preciso iniciar o XAMPP, habilitando o apache e o mysqli. 
